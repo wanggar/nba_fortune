@@ -1,2 +1,2 @@
 # nba_fortune
-nba player stock tradng app
+nba player stock trading app
